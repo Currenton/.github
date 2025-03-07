@@ -1,6 +1,6 @@
 **Terms of Service for all of Currenton’s Services**
 
-*Last updated: February 24th, 2025*
+*Last updated: March 07th, 2025*
 
 ---
 
