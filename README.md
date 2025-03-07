@@ -1,33 +1,33 @@
-# ⚡ Currenton - Innovating Discord Bots & Beyond  
+# 📜 .github Repository - Licensing & Organizational Policies  
 
-Welcome to **Currenton**, a team of passionate developers dedicated to creating powerful, efficient, and innovative **Discord bots** and **custom software solutions**. Whether you need automation, moderation, or entertainment, we craft tailored solutions to enhance your server experience.  
+Welcome to the **.github** repository! This repository serves as the central hub for managing licenses, policies, and guidelines for all projects under the **Currenton** organization.  
 
-## 🌟 What We Do  
+## 🔍 Purpose  
 
-🔹 **Custom Discord Bots** – Feature-rich and tailored to your needs.  
-🔹 **Automation & AI Solutions** – Streamlining processes with intelligent automation.  
-🔹 **Advanced Moderation Tools** – Keeping communities safe and efficient.  
-🔹 **Entertainment & Utility Bots** – Engaging features to enhance user experience.  
-🔹 **API & Backend Development** – Scalable and robust systems for all projects.  
+The **.github** repository is responsible for:  
+- Maintaining the **licenses** for all products and projects within the **Currenton** organization.  
+- Storing **organization-wide configurations**, such as issue templates and contribution guidelines.  
+- Defining **best practices** and ensuring consistency across all repositories.  
 
-## 🚀 Why Choose Currenton?  
+## 📜 Licensing  
 
-✅ **Experienced Developers** – A dedicated team with expertise in multiple programming languages.  
-✅ **Optimized Performance** – Efficient and lightweight solutions for seamless operation.  
-✅ **Scalability & Reliability** – Future-proof projects built to last.  
-✅ **Active Support & Maintenance** – Ongoing updates and improvements.  
+All projects within **Currenton** follow the licensing policies maintained in this repository. The applicable license for each product is documented here to ensure compliance and transparency.  
 
-## 🔧 Get Started  
+- The primary license file is located at: **[LICENSE](path)**  
+- Each repository may reference this file or specify its own license if necessary.  
 
-Want a custom bot or software solution? Contact us today!  
+## 📂 Organizational Policies  
 
-📩 Email: [currenton@icloud.com](currenton@icloud.com)  
-🌐 Website: [currenton.vercel.app](https://currenton.vercel.app)  
+To ensure consistency across all repositories, the **.github** repository also contains:  
+- **Issue & Pull Request Templates** – Standardized formats for reporting bugs and contributing code.  
+- **Code of Conduct** – Guidelines for maintaining a respectful and productive community.  
+- **Security Policies** – Instructions for reporting vulnerabilities responsibly.  
 
-## 🤝 Work With Us  
+## 🤝 Contribution & Compliance  
 
-**Interested in collaborating?** We're always looking for talented developers and creative minds. Reach out by email if you'd like to join the **Currenton** team!  
+If you're working on a project within **Currenton**, make sure to review the licensing terms and policies outlined here. All contributors are expected to adhere to these guidelines.  
 
-## 📜 License  
+For any questions or clarifications, reach out to the maintainers.  
 
-All projects and code by **Currenton** are subject to respective licensing agreements. Check out the licences in the folder `docs` folder for more information. For commercial inquiries, please contact us.  
+---  
+🔹 **Ensuring compliance, transparency, and security across all Currenton projects.**  
