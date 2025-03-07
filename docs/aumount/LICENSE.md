@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2021-2023 -ˋˏ꒰👑꒱ ʚ Sev6n💻#9587, KingCh1ll#3616, ACHIRA GAMING#7567, Assassin4080#8040 (also known as Assassin4080 DeV#6892), Shree#4623, AudiRo#7652.
+Copyright (c) 2021-2025 [Luca C.](https://lucadsign.vercel.app)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
