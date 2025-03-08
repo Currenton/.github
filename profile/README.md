@@ -30,4 +30,4 @@ Want a custom bot or software solution? Contact us today!
 
 ## 📜 License  
 
-All projects and code by **Currenton** are subject to respective licensing agreements. Check out the licences in the folder `docs` folder for more information. For commercial inquiries, please contact us.  
+All projects and code by **Currenton** are subject to respective licensing agreements. Check out the licences in the folder **[docs](https://github.com/Currenton/.github/tree/main/docs)**. folder for more information. For commercial inquiries, please contact us.  
