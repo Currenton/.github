@@ -13,7 +13,7 @@ The **.github** repository is responsible for:
 
 All projects within **Currenton** follow the licensing policies maintained in this repository. The applicable license for each product is documented here to ensure compliance and transparency.  
 
-- The primary license files is located **[here](https://github.com/Currenton/.github/tree/main/docs)**.  
+- The primary license files are located **[here](https://github.com/Currenton/.github/tree/main/docs)**.  
 - Each repository may reference this file or specify its own license if necessary.  
 
 ## 📂 Organizational Policies  
